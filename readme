@@ -1,0 +1,5 @@
+In this example, the code retrieves data from a database table and displays it on a web page with pagination. You'll need to modify the code to fit your specific database table and column names. The code calculates the starting record based on the current page number and fetches a subset of records using the LIMIT clause in the SQL query. The pagination links are displayed at the bottom, allowing the user to navigate between pages.
+
+Remember to replace 'localhost', 'username', 'password', and 'database_name' with your actual database connection details.
+
+Also, customize the code to display your specific data and adjust the HTML structure and CSS classes as needed for your pagination style.
